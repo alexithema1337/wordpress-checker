@@ -1,13 +1,12 @@
 # WordPress Login Checker
-
+---
 WordPress Login Checker adalah sebuah tool sederhana berbasis Python untuk melakukan pengecekan login pada situs WordPress secara massal menggunakan kombinasi URL, username, dan password yang diberikan. Tool ini mendukung beberapa format input dan menjalankan pengecekan secara paralel menggunakan threading.
 ---
-
 ## Screenshot
 
 Berikut contoh tampilan saat menjalankan tool ini:
 
-![Screenshot WordPress Checker](./screenshots/wordpress_checker_run.png)
+![Screenshot WordPress Checker](https://raw.githubusercontent.com/alexithema1337/wordpress-checker/refs/heads/main/preview.jpg)
 
 ---
 
